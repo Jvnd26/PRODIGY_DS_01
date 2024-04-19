@@ -1,1 +1,1 @@
-# PRODIGY_DS_01
+bar graph allows you to compare and contrast metrics (averages, sums, etc.) across different categories while Histogram allows you to view the distribution, or relative frequencies, of values in a dataset.
